@@ -1,4 +1,4 @@
-# Bertiewils Tap
+# My Tap
 
 ## How do I install these formulae?
 
